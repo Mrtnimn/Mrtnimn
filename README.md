@@ -1,6 +1,6 @@
 ## TL;DR
 
-## . 🔭 Currently learning data science and analytics.
+## . 🔭 Learning data science and analytics.
 ## . 🌱 Working on projects solving real use cases to provide actionable insights that provide decision making fueled by a data-driven approach
 ## . 🛜 Looking to collaborate on data science projects and initiatives that tackle real world problems pragmatically, and at scale
 ## . 🤩 Interested in exploring ML and AI trends, Data-oriented career opportunities

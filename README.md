@@ -1,4 +1,4 @@
-**TL;DR**
+## TL;DR
 
 ## . 🔭 Currently learning data science and analytics.
 ## . 🌱 Working on projects solving real use cases to provide actionable insights that provide decision making fueled by a data-driven approach

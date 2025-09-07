@@ -2,7 +2,7 @@
 
 **. 🔭 Learning data science and analytics**
 
-**. 🌱 Working on projects solving real use cases to provide actionable insights that provide decision making fueled by a data-driven approach**
+**. 🌱 Working on projects solving real business use cases augmenting actionable insights drawn from conclusions fueled from a data-driven approach**
 
 **. 🛜 Looking to collaborate on data science projects and initiatives that tackle real world problems pragmatically, and at scale**
 

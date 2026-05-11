@@ -6,7 +6,7 @@
 
 **. 🛜 Looking to collaborate on data science projects and initiatives that tackle real world problems pragmatically, and at scale**
 
-**. 🤩 Interested in exploring ML and AI trends, and Data-oriented career opportunities**
+**. Excited to learn, builiding and exploring ML and AI trends, and Data-oriented career opportunities**
 <!--
 **Mrtnimn/Mrtnimn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
